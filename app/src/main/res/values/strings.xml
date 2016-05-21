@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_name_lable">Movie Name:</string>
+    <string name="want_to_see">INTERESTED</string>
+    <string name="not_interested">NOT INTERESTED</string>
+    <string name="movie_info">MOVIE INFO</string>
+    <string name="book_name_lable">Book Name:</string>
+    <string name="author_name_lable">Author Name :</string>
+    <string name="country_lable">Country:</string>
+    <string name="language_lable">Language:</string>
+    <string name="publisher_lable">Publisher :</string>
+    <string name="publish_date_lable">Publication Date:</string>
+    <string name="isbn_nu">ISBN:</string>
+    <string name="media_type_lable">Media Type: </string>
+    <string name="plot_summary_lable">Plot Summary:</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Movie, Actor</string>
+    <string name="photos_lable">PHOTOS</string>
+    <string name="showtime_info">Theaters and Showtime</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="theater_name">Theater</string>
+    <string name="image_share">Share</string>
+</resources>
